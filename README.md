@@ -42,10 +42,6 @@ pip install pandas numpy scikit-learn transformers torch
 - Optimize models for real-time processing.
 - Deploy as a web API or chatbot.
 
-## Contributing
-Feel free to fork this repository, make improvements, and submit a pull request.
 
-## License
-This project is open-source under the MIT License.
 
 
